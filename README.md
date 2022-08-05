@@ -1,4 +1,4 @@
-# Remotly-Control-EV3
+# Remote-Control-EV3-JAVA
 ## WIP: Control Lego Mindstorms EV3 remotely. 
 
 Once I am done (and who knows when that will be) I plan to upload my code to this repository. 
